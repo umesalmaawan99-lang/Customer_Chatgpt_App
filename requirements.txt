@@ -1,0 +1,9 @@
+# install the required libraries
+
+ openai
+ langchain
+ langchain-openai
+ langchain-core
+ streamlit
+ tiktoken
+ python-dotenv
